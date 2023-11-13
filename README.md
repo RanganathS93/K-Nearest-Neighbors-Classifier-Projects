@@ -4,6 +4,8 @@ Import the Libraries
 
 Get the data
 
+Perform EDA
+
 Standardise the variables using Standard Scaler
 
 Train Test Split 
